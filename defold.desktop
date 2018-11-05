@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Defold
+GenericName=2D game engine/editor
+Path=/usr/share/defold
+Exec=/usr/share/defold/Defold
+Categories=Game;Development;
